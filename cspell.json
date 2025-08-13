@@ -1,0 +1,27 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "NEXTAUTH",
+    "oneline",
+    "unmatch",
+    "reflog",
+    "gitbash",
+    "powershell",
+    "pwsh",
+    "nathandanielwallace",
+    "gmail",
+    "ehdh",
+    "zery",
+    "xjsb",
+    "mbsr"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    ".git/**",
+    "dist/**",
+    "build/**",
+    "*.min.js",
+    "package-lock.json"
+  ]
+}
